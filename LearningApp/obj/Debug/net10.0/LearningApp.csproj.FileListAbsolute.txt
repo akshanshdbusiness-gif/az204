@@ -1,0 +1,2 @@
+C:\az\az204\LearningApp\bin\Debug\net10.0\LearningApp.exe
+C:\az\az204\LearningApp\bin\Debug\net10.0\LearningApp.dll
